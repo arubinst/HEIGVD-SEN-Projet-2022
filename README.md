@@ -4,7 +4,7 @@
 
 **Le rendu consiste en un rapport à rendre en format PDF. Vous transmettrez le rapport utilisant l'interface du "devoir" correspondant sur le site Cyberlearn du cours.**
 
-**Le travail est à effectuer par groupes de 2.**
+**Le travail est à effectuer par groupes de 3.**
 
 ## Table de matières
 
