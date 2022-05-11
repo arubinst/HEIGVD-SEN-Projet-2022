@@ -160,7 +160,7 @@ Tout en sachant que vous allez devoir simuler l'attaque.
 >   - qu'est ce qui vous fait penser que cette cible remplira votre objectif?, pourquoi l'attaque vous vous avez imaginée aura un effet sur votre cible ?
 > - Support de l'attaque :
 >   - pourquoi avez-vous choisis tel support et pas un autre ?
->   - ce support est-il adapté à la cible ? (par exemple : à elle un compte sur ce réseau social ?, y est-elle souvent connectée ?)
+>   - ce support est-il adapté à la cible ? (par exemple : a elle un compte sur ce réseau social ?, y est-elle souvent connectée ?)
 >   - quel thème sera abordé dans votre attaque ?, pourquoi ?
 > - Payload de l'attaque :
 >   - dans le cas ou vous avez besoin d'un payload pour contenir votre attaque, décrivez la raison qui vous pousse à l'utiliser et en quoi vous pensez que la personne tombera dans le piège.
